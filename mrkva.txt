@@ -1,2 +1,4 @@
+moj novy riadok
 Mrkva je dobra
 novy text
+toto je zmeneny text
